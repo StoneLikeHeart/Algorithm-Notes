@@ -2,7 +2,7 @@
 
 平台：HackerRank / LeetCode  
 难度：Easy / Medium / Hard  
-分类���HashMap / HashMap-and-Set
+分类：Array / Array-and-String  
 
 ---
 

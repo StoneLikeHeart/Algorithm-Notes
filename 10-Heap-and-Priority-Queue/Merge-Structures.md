@@ -1,4 +1,4 @@
-# Counting-and-Dedup
+# Merge-Structures
 
 平台：HackerRank / LeetCode  
 难度：Easy / Medium / Hard  

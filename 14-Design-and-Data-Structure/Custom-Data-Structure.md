@@ -1,4 +1,4 @@
-# Counting-and-Dedup
+# Custom-Data-Structure
 
 平台：HackerRank / LeetCode  
 难度：Easy / Medium / Hard  
