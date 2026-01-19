@@ -1,7 +1,6 @@
 # Torque and Development
 
 Platform（平台）: HackerRank https://www.hackerrank.com/contests/job-interview-medium/challenges/torque-and-development
-
 Difficulty（难度）: Medium  
 Category（分类）: Graph（图论） / Connected Components（连通分量） / Greedy（贪心算法）
 
